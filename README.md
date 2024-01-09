@@ -1,8 +1,14 @@
-# React + Vite
+# API Handling Practice Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+This project is a web application designed for practicing API integration and data display. It provides a practical environment for working with APIs, fetching data, and presenting it in a user-friendly format. Whether you are new to web development or an experienced developer looking to sharpen your API-handling skills, this project serves as an ideal playground for learning and experimentation.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Features
+
+- **API Integration:** Allows you to interact with external APIs to fetch data.
+- **Data Display:** Displays the retrieved data in a clear and organized manner on the website.
+- **Practice Environment:** Perfect for honing your API-handling skills, making HTTP requests, and handling API responses.
+
+Explore the live version of the website [here](https://react-app2-ccv5.onrender.com/).
+
